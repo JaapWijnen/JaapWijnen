@@ -1,4 +1,15 @@
-### Hi there 👋
+# Hi there 👋 I'm [Jaap](https://www.jaa.app)!
+I'm a:
+- Theoretical Physics Msc.
+- Software Engineer
+- Open source enthusiast
+- Tinkerer/Maker
+- WWDC scholar 2017
+
+With a big love for computer graphics, machine learning and Swift Vapor!
+
+For more info visit my page on ✨ www.jaa.app ✨
+
 
 <!--
 **JaapWijnen/JaapWijnen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
